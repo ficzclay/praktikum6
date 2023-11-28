@@ -63,33 +63,33 @@ Program tersebut merupakan aplikasi sederhana untuk manajemen data mahasiswa. Ca
 
 Berikut Hasilnya:
 ![2](https://github.com/ficzclay/praktikum6/assets/148204078/c7401c44-bb20-4b66-954b-ded859e1ee47)
-
+<br>
 
 Tambah Data Mahasiswa:
 ![3](https://github.com/ficzclay/praktikum6/assets/148204078/27d8d856-e6a9-4e3f-ab0d-cd8c40975224)
-
+<br>
 
 Lihat Daftar Nilai Mahasiswa:
 ![3(l)](https://github.com/ficzclay/praktikum6/assets/148204078/aa46f0ff-9071-4176-b553-a1128c1df582)
-
+<br>
 
 Hapus Data Mahasiswa
 ![5](https://github.com/ficzclay/praktikum6/assets/148204078/9f892e68-bc13-4cb1-a289-884e1d3239e1)
-
+<br>
 
 Ubah Data Mahasiswa:
 ![4](https://github.com/ficzclay/praktikum6/assets/148204078/8ba942f1-4317-41d5-af6e-e636dfc0fddd)
-
+<br>
 
 
 Cari Data Mahasiswa:
 ![6](https://github.com/ficzclay/praktikum6/assets/148204078/28c6eabd-c45b-496f-8dba-011faf39ec3a)
-
+<br>
 
 
 Keluar:
 ![7](https://github.com/ficzclay/praktikum6/assets/148204078/92a41228-b044-4f94-94aa-55d85391aa11)
-
+<br>
 
 
 Flowchart:<br>
