@@ -22,7 +22,7 @@
 
 Penjelasan:
    Kode ini digunakan untuk mencetak data dari daftar kamus dalam format tabel menggunakan Python. 
-
+   
 - Inisialisasi Data: `(list_of_dicts)` berisi informasi nama dan nomor telepon beberapa orang.
 - Tentukan Lebar Kolom: Lebar kolom dihitung berdasarkan panjang teks terpanjang dalam dictionary ditambah 2.
 - Cetak Header Tabel: Nama kolom dicetak sebagai header tabel.
@@ -100,7 +100,7 @@ cd bahasa_pemrograman
 ```
 
 ```
-mkdir praktikum5
+mkdir praktikum6
 ```
 
 3. Jika sudah, jalankan command (command git init digunakan untuk menginisialisasi repositori git baru)
@@ -116,13 +116,13 @@ git init
 disini akan menggunakan terminal
 
 ```
-echo “# praktikum5 >> README.md
+echo “# praktikum6 >> README.md
 ```
 
 2. Untuk menambahkan file yang baru saja dibuat, gunakan command
 
 ```
-git add README.md
+git add .
 ```
 
 3. Untuk menyimpan perubahan yang ada pada database repositori
@@ -140,7 +140,7 @@ git commit -m "first commit"
 4. Isi nama repository-nya,
 
 ```
-contoh: praktikum5
+contoh: praktikum6
 ```
 
 5. lalu klik tombol Create repository
